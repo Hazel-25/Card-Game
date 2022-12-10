@@ -19,7 +19,5 @@ journey
 		User enter a key: 5: User
     Program announce the winner: 5: Program
     Program asks if q to quit the program: 5: Program
-    User chooses Add Reminder: 5: User
-    Bot asks for Reminder Title, Reminder Date, Reminder Time and Reminder info: 5: Bot
     User answers all questions: 5: User   
 ```
