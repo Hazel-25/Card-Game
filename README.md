@@ -4,7 +4,7 @@
  
 ## Instructions
  1. Each player draws a card from the deck.
- 2. after drawing the cars the program will process the card that was drawn.
+ 2. After drawing the cars the program will process the card that was drawn.
  3. After processing the player with the highest card will win.
  
  ### UML Diagram
