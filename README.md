@@ -21,3 +21,8 @@ journey
     Program asks if q to quit the program: 5: Program
     User answers all questions: 5: User   
 ```
+
+### Video Presentation
+
+<a href="https://www.youtube.com/watch?v=7F-cArcdDmk" target="_blank"><img src="!https://www.youtube.com/watch?v=7F-cArcdDmk/0.jpg" 
+alt="CARD GAME" width="240" height="180" border="10" /></a>
